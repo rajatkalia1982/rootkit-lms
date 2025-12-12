@@ -1,0 +1,453 @@
+<!DOCTYPE html>
+<!-- Designined by CodingLab | www.youtube.com/codinglabyt -->
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="UTF-8">
+    <title> Manish Kalia's Alpha Classes </title>
+    <link rel="stylesheet" href="style.css">
+    <!-- Boxicons CDN Link -->
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   </head>
+<body>
+  <nav>
+    <div class="navbar">
+      <i class='bx bx-menu'></i>
+      <div class="logo"><a href="#">Alpha</a></div>
+      <div class="nav-links">
+        <div class="sidebar-logo">
+          <span class="logo-name">Alpha</span>
+          <i class='bx bx-x' ></i>
+        </div>
+        <ul class="links">
+          <li><a href="#">HOME</a></li>
+          <li>
+            <a href="#">Courses</a>
+            <i class='bx bxs-chevron-down htmlcss-arrow arrow  '></i>
+            <ul class="htmlCss-sub-menu sub-menu">
+                
+                 <li class="more">
+                <span><a href="#">Intermediate</a>
+                <i class='bx bxs-chevron-right arrow more-arrow'></i>
+              </span>
+                <ul class="more-sub-menu sub-menu">
+                  <li><a href="https://alphadefenceacademy.com/rk/v4/iitjee.php">IIT-JEE</a></li>
+                  <li><a href="#">AIEEE</a></li>
+                  <li><a href="#">AIIMS</a></li>
+                  <li><a href="#">NEET</a></li>
+                </ul>
+              </li>
+                <li class="more1">
+                <span><a href="#">10th CBSE</a>
+                <i class='bx bxs-chevron-right arrow more1-arrow'></i>
+              </span>
+                <ul class="more1-sub-menu sub-menu">
+                  <li><a href="#">10th CBSE</a></li>
+                  <li><a href="#">Olympiad</a></li>
+                  <li><a href="#">NTSE</a></li>
+                </ul>
+              </li>
+              <li class="more2">
+                <span><a href="#">Defence</a>
+                <i class='bx bxs-chevron-right arrow more2-arrow'></i>
+              </span>
+                <ul class="more2-sub-menu sub-menu">
+                  <li><a href="https://alphadefenceacademy.com/rk/v4/nda.php">NDA</a></li>
+                  <li><a href="https://alphadefenceacademy.com/rk/v4/cds.php">CDS</a></li>
+                  <li><a href="https://alphadefenceacademy.com/rk/v4/ssb.php">SSB</a></li>
+                </ul>
+              </li>
+             
+            <li class="more2">
+                <span><a href="#">Armed Forces</a>
+                <i class='bx bxs-chevron-right arrow more2-arrow'></i>
+              </span>
+                <ul class="more2-sub-menu sub-menu">
+                  <li><a href="https://alphadefenceacademy.com/rk/v4/indianarmy.html">Indian Army</a></li>
+                  <li><a href="https://alphadefenceacademy.com/rk/v4/indianairforce.html">Indian Air Force</a></li>
+                  <li><a href="https://alphadefenceacademy.com/rk/v4/indiannavy.html">Indian Navy</a></li>
+                </ul>
+              </li> 
+             <li class="more2">
+                <span><a href="https://alphadefenceacademy.com/rk/v4/agnipath.html">Agnipath 1.0</a>
+              </li> 
+            </ul>
+          </li>
+          
+            <li>
+            <a href="#">Fee</a>
+            <i class='bx bxs-chevron-down htmlcss-arrow arrow  '></i>
+            <ul class="htmlCss-sub-menu sub-menu">
+              <li class="more3">
+                <span><a href="#">Intermediate</a>
+                <i class='bx bxs-chevron-right arrow more3-arrow'></i>
+              </span>
+                <ul class="more3-sub-menu sub-menu">
+                  <li><a href="https://www.alphadefenceacademy.com/rk/v4/iitjeefee.php">IIT-JEE</a></li>
+                  <li><a href="#">AIEEE</a></li>
+                  <li><a href="#">AIIMS</a></li>
+                  <li><a href="#">NEET</a></li>
+                </ul>
+              </li>
+              <li class="more4">
+                <span><a href="https://www.alphadefenceacademy.com/rk/v4/defencefee.php">Defence</a>
+              </span>
+                
+              </li>
+
+               <li class="more4">
+                <span><a href="https://www.alphadefenceacademy.com/rk/v4/services.html">Services</a>
+              </span>
+              </li>
+
+            </ul>
+          </li>
+          
+          
+           <li>
+            <a href="#">Downloads</a>
+            <i class='bx bxs-chevron-down js-arrow arrow '></i>
+            <ul class="js-sub-menu sub-menu">
+                
+                       <li><a href="https://www.alphadefenceacademy.com/rk/v4/mdoc.php">Manish's Documents</a></li>
+                      <li><a href="https://www.alphadefenceacademy.com/rk/v4/rdoc.php">Rajat's Documents</a></li>
+            </ul>
+          </li>
+          
+           <li>
+            <a href="#">Staff</a>
+            <i class='bx bxs-chevron-down htmlcss-arrow arrow  '></i>
+            <ul class="htmlCss-sub-menu sub-menu">
+                
+                 <li class="more5">
+                <span><a href="#">Manish Kalia</a>
+                <i class='bx bxs-chevron-right arrow more5-arrow'></i>
+              </span>
+                <ul class="more5-sub-menu sub-menu">
+                  <li><a href="https://www.facebook.com/kalia.manish">Manish Kalia (Profile 1) FB</a></li>
+                      <li><a href="https://www.facebook.com/manish.kalia2">Manish Kalia (Profile 2) FB</a></li>
+                      <li><a href="https://www.linkedin.com/in/manish-kalia-916507264/">Manish Kalia Ln</a></li>
+                      <li><a href="https://www.alphadefenceacademy.com/rk/v4/manishkalia.html">Manish's ScrapBook</a></li>
+                </ul>
+              </li>
+                <li class="more6">
+                <span><a href="#">Neha Kalia</a>
+                <i class='bx bxs-chevron-right arrow more6-arrow'></i>
+              </span>
+                <ul class="more6-sub-menu sub-menu">
+                   <li><a href="https://www.facebook.com/auntykalia">Neha Kalia FB</a></li>
+                   <li><a href="https://www.linkedin.com/in/neha-kalia-623752215/">Neha Kalia Ln</a></li>
+           <li><a href="https://www.alphadefenceacademy.com/rk/v4/nehakalia.html">Neha's ScrapBook</a></li>         
+               </ul>
+              </li>
+              <li class="more7">
+                <span><a href="#">Rajat Kalia</a>
+                <i class='bx bxs-chevron-right arrow more7-arrow'></i>
+              </span>
+                <ul class="more7-sub-menu sub-menu">
+                  <li><a href="https://www.facebook.com/rajatkalia007/">Rajat Kalia FB</a></li>
+                  <li><a href="https://www.linkedin.com/in/rajatkalia2/">Rajat Kalia Ln</a></li>
+                  <li><a href="https://twitter.com/RajatKalia1/">Rajat Kalia tw</a></li>
+                  <li><a href="https://www.instagram.com/rajatkalia1/">Rajat Kalia Ig</a></li>
+                  <li><a href="https://www.youtube.com/@rk-e8529">Rajat Kalia ytb</a></li>
+                  <li><a href="https://www.alphadefenceacademy.com/rk/v4/rajatkalia.html">Rajat's ScrapBook</a></li>
+               </ul>
+              </li>
+             
+             
+              
+            </ul>
+          </li>
+          
+          
+          
+          
+          
+            <li>
+            <a href="https://rk-e.blogspot.com/">Blogs</a>
+            <i class='bx bxs-chevron-down js-arrow arrow '></i>
+            <ul class="js-sub-menu sub-menu">
+                
+                <li><a href="https://rk-e.blogspot.com/">Physics</a></li>
+                <li><a href="https://rk-edu.blogspot.com/">Mathematics</a></li>
+                <li><a href="https://chem-rke.blogspot.com/">Chemistry</a></li>
+                <li><a href="https://comm-pke.blogspot.com/">Commerce</a></li>
+                <li><a href="https://biosciences-rke.blogspot.com/">Biology</a></li>
+                <li><a href="https://design-mke.blogspot.com/">Design</a></li>
+                <li><a href="https://computers-mke.blogspot.com/">CS</a></li>
+                <li><a href="https://ee-mke.blogspot.com/">EE</a></li>
+                <li><a href="https://me-mke.blogspot.com/">ME</a></li>
+                <li><a href="https://ce-mke.blogspot.com/">CE</a></li>
+                <li><a href="https://medlife-rke.blogspot.com/">Medical</a></li>
+                <li><a href="https://constitution1982.blogspot.com/">Social Sciences</a></li>
+                <li><a href="https://tmm18.blogspot.com/">Meditation</a></li>
+                <li><a href="https://brigade-13.blogspot.com/">Game Design</a></li>
+                <li><a href="https://battalion-7.blogspot.com/">Pranks</a></li>
+		<li><a href="https://ba-xpn.blogspot.com/">Arts</a></li>
+		<li><a href="https://mke-whj.blogspot.com/">White Hat</a></li>
+                <li><a href="https://debk-mke.blogspot.com/">D.E. Book Keeping</a></li>           
+ 	</ul>
+          </li>
+          
+           <li>
+            <a href="https://alphadefenceacademy.com/rk/v4/students.php">Students</a>
+            <i class='bx bxs-chevron-down js-arrow arrow '></i>
+            <ul class="js-sub-menu sub-menu">
+                
+                
+           
+            <li><a href="https://alphadefenceacademy.com/rk/v4/students.php?year=2024">10+ 2</a></li>
+            <li><a href="https://alphadefenceacademy.com/rk/v4/students.php?year=2025">10+ 1</a></li>
+            <li><a href="https://alphadefenceacademy.com/rk/v4/students.php?year=2026">10th</a></li>
+            <li><a href="https://alphadefenceacademy.com/rk/v4/students.php?year=2027">9th</a></li>
+            <li><a href="https://alphadefenceacademy.com/rk/v4/students.php?year=2028">8th</a></li>
+            <li><a href="https://alphadefenceacademy.com/rk/v4/students.php?year=2029">7th</a></li>
+            <li><a href="https://alphadefenceacademy.com/rk/v4/students.php?year=2030">6th</a></li>
+            <li><a href="https://alphadefenceacademy.com/rk/v4/students.php?year=2031">5th</a></li>
+            <li><a href="https://alphadefenceacademy.com/rk/v4/students.php?year=2023">First Year</a></li>
+            </ul>
+          </li>
+          <li><a href="https://www.alphadefenceacademy.com/rk/v4/gallaryalphaclasses.php">Gallary</a></li>
+          <li><a href="https://www.youtube.com/user/kaliamanish">YouTub</a></li>
+          
+          
+          
+        </ul>
+      </div>
+      <div class="search-box">
+        <i class='bx bx-search'></i>
+        <div class="input-box">
+          <input type="text" placeholder="Search...">
+        </div>
+      </div>
+    </div>
+  </nav>
+  <hr>
+   <header id="header"><img alt="Logonda" src="classesandnda.jpg" class ="responsive" />
+<div id="logo">
+    
+<h1><a href="#">MANISH KALIA'S ALPHA CLASSES</a></h1>
+<h3>SCO 24,SECTOR 41-D,CHD</h3>
+
+</div>
+<td>
+    <strong>+91-94645-51253,+91-9878146388,+91-6284617611</strong>
+</td>
+<td >
+    <a href ="https://twitter.com/i/lists/1688169437462167648">
+        <img align = "right" src = "twitter.jpg" class="responsive"></img>
+    </a>
+    <a href = "https://www.youtube.com/@ManishKalia">
+        <img align = "right" src = "youtube.jpg" class="responsive"></img>
+    </a>
+    <a href="https://www.facebook.com/alphaclasseschd">
+        <img align = "right" src = "facebook.jpg" class="responsive"></img>
+    </a>
+    <a href="https://www.instagram.com/alphaclasseschd/">
+        <img align = "right" src = "instagram.jpg" class="responsive"></img>
+    </a>
+    <a href = "https://www.linkedin.com/company/rajatkaliaeducation/"><img align = "right" src = "linkedin.jpg" class="responsive"></img>
+    </a>
+</td>
+<hr>
+
+</header>  <h2>ALPHA CLASSES</h2>
+
+by
+
+<h3>MANISH KALIA<h3> 
+
+<h4>25 years of teaching Excellence</h4>
+
+<h5>5000+ Selections in IIT-JEE |NDA|NTSE|OLYMPIAD</h5>
+
+<img src = "thumb_alpha.jpg" width ="85%" class = "responsive"></img>
+<br>
+<ul>
+ <li>  
+
+Established in 2003 by the visionary zeal of a DEC’ite MANISH KALIA AND IIT’ian Rajat kalia . ALPHA CLASSES is an initiative by alumni of TOP engineering colleges like IIT,DCE and PEC. We at ALPHA CLASSES are focused to nourish the seeds of knowledge already planted within the hearts of the young students, which will grow into a beautiful and thriving tree, shading all cultures of our community, and eventually bear the fruits of a unified people.ALPHA CLASSES core philosophy lies in getting the best out of each student and giving him a direction in his professional career.
+</li> <li> 
+We at ALPHA CLASSES deliver a unique system of IIT-JEE(Mains and Advanced) preparation that maximizes student’s performance.
+</li> 
+</ul>
+<tr>
+<td>
+<br>
+<b>IIT-JEE(Mains & Advanced)</b>
+<br>
+<b>NDA</b>
+<br>
+<b>CBSE(+1,+2)</b>
+<br>
+<b>KVPY</b>
+<br>
+<b>OLYMPIAD</b>
+<br>
+<b>NTSE</b>
+<br>
+<b>FOUNDATION (9th,10th) </b>
+<br>
+</td>
+<td>
+<iframe src="bulletinboard.php"></iframe>
+</td>
+<tr>
+<hr>
+
+<h1>A Glimpse at ALPHA CLASSES</h1>
+<hr>
+<b><u>MATHAZINE</u></b>
+<br>
+A monthly magazine that provides you the knowledge about various competitive exams along with latest info. Tips and tricks on various topics and much more .Prepared by  Manish kalia sir.It includes challenger questions best suited for latest exams. 
+<hr>
+<b><u>TEST SERIES</u></b>
+<hr>
+A complete test series on latest pattern of IIT-JEE(Mains and Advanced), BITSAT, NDA ,CDS,AFCAT ,+1,+2 and other competitive exams so as to give students the insight of competitive exams at every step of preparation towards these exams
+<hr>
+<b><u>SMART CLASSROOMS</u></b>
+<hr>
+Smart class rooms with projectors helps in understanding the basics to the students and also helps in better retention.
+<hr>
+
+COURSES OFFERED
+<table>
+ 	<tr><td width=20%>
+ 	   <a href="https://alphadefenceacademy.com/rk/v4/iitjee.php"><img src="thumb_IIT-JEE.jpg" class ="responsive" width="100%"></img></a>
+ 	</td>
+ 	   <td width=80%>
+ 	    <h3>IIT-JEE MAINS AND ADVANCED:</h3>
+ 	    <br>
+JEE Main is the single gateway for admission to NITs, IIITs, Centrally Funded Technical Institutions (CFTIs) as well as other engineering colleges and technology institutes run by the state governments and private institutions who have adopted JEE. We, at ALPHA CLASSES provides the best class room contact programme for this entrance exam . 
+	</td> 
+</tr>
+<tr><td>
+  
+<a href="https://www.alphadefenceacademy.com/rk/v4/nda.php"><img src="thumb_nda.jpg" class ="responsive" width="100%"></img></a>
+ 	   
+ 	</td>
+ 	   <td>
+ 	
+<h3>NDA | CDS | AFCAT :</h3>
+<br>
+The National Defence Academy (NDA) is the Joint Services academy of the Indian Armed Forces, where cadets of the three services, the Army, the Navy and the Air Force train together before they go on to pre-commissioning training in their respective service academies. The NDA is located in Khadakwasla near Pune, Maharashtra. It is the first tri-service academy in the world. We, at ALPHA CLASSES provides the best class room contact programme for this entrance exam . 
+	</td> 
+</tr>
+<tr><td>
+    <img src="thumb_cbse.jpg" class ="responsive" width="100%"></img>
+ 	    
+ 	</td>
+ 	   <td>
+ 	
+<h3>CBSE :</h3>
+<br>
+ We prepare students for school exams for classes from 9th to 12th ,in which we prepare the students to score 100% marks in respective subjects.We provide best coaching for following courses for CBSE
+<ul>
+<li>
+Mathematics (9th,10th +1,+2)
+</li><li>
+Science (9th,10th) 
+</li><li>
+Physics (+1,+2)
+</li><li>
+Chemistry(+1,+2)
+</li><li>
+Acounts(+1,+2)
+</li><li>
+Economics(+1,+2)
+</li>
+</ul>
+
+	</td> 
+</tr>
+<tr><td>
+ 	    <img src="thumb_ntse.jpg" class ="responsive" width="100%"></img>
+ 	</td>
+ 	   <td>
+ 	
+<h3>NTSE :</h3>
+<br>
+We prepare students for NTSE exams
+<br>
+
+NTSE (NATIONAL TALENT SEARCH EXAMINATION) is a national level examination conducted by NCERT to provide scholorship to the deserving candidates.This exam is for secondary school level identify and recognize srudents with high intellect and skills.The examination is conducted every year at 2 levels:
+<br>
+STAGE 1(STATE LEVEL)
+<br>
+STAGE 2(NATIONAL LEVEL)
+	</td> 
+</tr>
+</table>
+
+<h1>MENTORS</h1>
+
+<h3>Get Trained by the best</h3>
+
+<table>
+    <tr><td width=20%>
+ 	   <a href=manishkalia.html> <img src="manish.jpg" class ="responsive" width="100%"></img></a>
+ 	</td>
+ 	   <td width=80%>
+MANISH KALIA(B.Tech Delhi College Of Engineering):
+(MATHEMATICS FACULTY)
+(Director) 
+Manish kalia sir is an eminent educationist with enriching and diversified experience of more than 20 years of teaching MATHEMATICS for IIT JEE & NDA EXAMS.He did his B.Tech from Delhi college of Engineering .  
+	</td> 
+</tr>
+<tr><td>
+ 	    <a href=nehakalia.html><img src="neha.jpg" class ="responsive" width="100%"></img></a>
+ 	</td>
+ 	   <td>
+ 	
+NEHA KALIA(MBA,B.COM KUK):
+(COMMERCE FACULTY)
+With an enriching experience of more than 15 year Neha is  a more adorable tutor of commerce in the city .  
+
+ 	</td> 
+</tr>
+<tr><td>
+ 	   <a href=rajatkalia.html><img src="rajat.jpg" class ="responsive" width="100%"></img></a>
+ 	</td>
+ 	   <td>
+
+RAJAT KALIA(B.Tech IIT DELHI:
+(PHYSICS FACULTY) 
+Rajat did his B.Tech from IIT Delhi.HE got 11 rank in IIT JEE screening and 181 rank is MAIN .WIth his tremendous knowledge he is very popular among students
+	</td> 
+</tr>
+</table> 	
+<hr>
+
+<img src = "thumb_2.jpg" width=80%></img>
+<img src = "thumb_celebrations.jpg" width=80%></img>
+
+
+  <script src="script.js"></script>
+<H3>Contact Form</H3>
+<iframe width=80% height=65% src="https://www.alphadefenceacademy.com/rk/v4/guestbook.php?id=CONTACT"></iframe>
+</body>
+
+
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '{667136478615941}',
+      cookie     : true,
+      xfbml      : true,
+      version    : '{v18.0}'
+    });
+      
+    FB.AppEvents.logPageView();   
+      
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "https://connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
+
+</html>
